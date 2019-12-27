@@ -1,0 +1,117 @@
+.btn-gear {
+  background-image: -webkit-gradient(linear, right top, left top, from(#333333), to(#dd1818));
+  background-image: linear-gradient(to left, #333333, #dd1818);
+  border: none;
+  background-size: 100%;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.btn-gear:hover {
+  background-size: 200%;
+  color: #bdc3c7;
+}
+
+.card {
+  -webkit-box-shadow: 3px 3px 5px #bdc3c7, -3px -3px 5px #bdc3c7;
+          box-shadow: 3px 3px 5px #bdc3c7, -3px -3px 5px #bdc3c7;
+}
+
+.footer-einstein {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.web-developer {
+  color: #2196f3;
+}
+
+.img-einstein {
+  position: relative;
+  width: 110%;
+  border-radius: 10px;
+  left: -17px;
+  top: -10px;
+}
+
+.food-h5 {
+  color: #e91e63 !important;
+}
+
+.btn-food {
+  background-color: #880E4f;
+  color: white;
+  padding: 10px;
+  width: 35%;
+  border-radius: 0;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.btn-food:hover {
+  color: #ccc;
+}
+
+.img-comida {
+  position: relative;
+  width: 90%;
+  border-radius: 10px;
+  left: 15px;
+  top: -10px;
+}
+
+.card-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.card-footer .facebook {
+  background-color: #3b5998;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-shadow: 0 0 10px #3b5998;
+          box-shadow: 0 0 10px #3b5998;
+}
+
+.card-footer .facebook a i {
+  color: white;
+}
+
+.card-footer .instagram {
+  background-color: #db2f61;
+  -webkit-box-shadow: 0 0 10px #db2f61;
+          box-shadow: 0 0 10px #db2f61;
+}
+
+.card-footer .linkedin {
+  background-color: #0e76a8;
+  -webkit-box-shadow: 0 0 10px #0e76a8;
+          box-shadow: 0 0 10px #0e76a8;
+}
+
+.card-victor {
+  border-radius: 10px;
+}
+
+.card-victor .img-victor {
+  border-radius: 10px;
+  -webkit-box-shadow: 5px 5px 10px 3px #bdc3c7;
+          box-shadow: 5px 5px 10px 3px #bdc3c7;
+}
+/*# sourceMappingURL=styles.css.map */
