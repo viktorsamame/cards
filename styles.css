@@ -114,4 +114,8 @@
   -webkit-box-shadow: 5px 5px 10px 3px #bdc3c7;
           box-shadow: 5px 5px 10px 3px #bdc3c7;
 }
+
+.agrandar {
+  background-size: 150% !important;
+}
 /*# sourceMappingURL=styles.css.map */
